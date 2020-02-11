@@ -1,0 +1,35 @@
+{
+  "name": "tdd_re_introduction",
+  "version": "1.0.0",
+  "description": "テストの練習用",
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "lodash": "^4.17.15",
+    "typescript": "^3.7.5",
+    "vue": "^2.6.11",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.0",
+    "vuex-module-decorators": "^0.16.1"
+  },
+  "scripts": {
+    "test": "jest test --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkusu/TDD_Re_introduction.git"
+  },
+  "keywords": [
+    "jest",
+    "test"
+  ],
+  "author": "lnkusuin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkusu/TDD_Re_introduction/issues"
+  },
+  "homepage": "https://github.com/inkusu/TDD_Re_introduction#readme"
+}
