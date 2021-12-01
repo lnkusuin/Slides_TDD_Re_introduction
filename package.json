@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@types/jest": "26.0.10",
-    "jest": "27.4.2",
+    "jest": "27.4.3",
     "@types/jest": "27.0.3",
     "vuex-module-decorators": "2.0.0"
   },
