@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "テストの練習用",
   "dependencies": {
-    "@types/lodash": "4.14.201",
+    "@types/lodash": "4.14.202",
     "lodash": "4.17.21",
     "typescript": "5.3.2",
     "vue": "3.3.8",
