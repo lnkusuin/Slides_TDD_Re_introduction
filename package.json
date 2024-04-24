@@ -6,7 +6,7 @@
     "@types/lodash": "4.17.0",
     "lodash": "4.17.21",
     "typescript": "5.4.5",
-    "vue": "3.4.24",
+    "vue": "3.4.25",
     "vuex": "4.1.0"
   },
   "devDependencies": {
