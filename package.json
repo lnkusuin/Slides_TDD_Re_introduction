@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/lodash": "4.17.7",
     "lodash": "4.17.21",
-    "typescript": "5.5.3",
+    "typescript": "5.5.4",
     "vue": "3.4.33",
     "vuex": "4.1.0"
   },
